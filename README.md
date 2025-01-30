@@ -1,6 +1,6 @@
 # RMarkdown-and-Quarto
 # Install R and RStudio
-[link](https://posit.co/download/rstudio-desktop/)
+[Installation Instructions](https://posit.co/download/rstudio-desktop/)
 
 # Resources
 [RMarkdown Introduction](https://rmarkdown.rstudio.com/lesson-1.html)
